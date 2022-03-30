@@ -1,3 +1,4 @@
+# colors class used in speed-test.py
 class Colors:
     HEADER = '\033[95m'
     OKBLUE = '\033[94m'
